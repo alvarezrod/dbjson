@@ -4,121 +4,141 @@
       "id": "01",
       "nombre": "Guitarra Acústica",
       "imagen": "./imagenes/guitarra-acustica.jpeg",
-      "descripcion": "Guitarra acústica de madera con sonido cálido y resonante, ideal para principiantes y músicos profesionales"
+      "descripcion": "Guitarra acústica de madera con sonido cálido y resonante, ideal para principiantes y músicos profesionales",
+      "precio": 249.99
     },
     {
       "id": "02",
       "nombre": "Piano Digital",
       "imagen": "./imagenes/piano-digital.jpeg",
-      "descripcion": "Piano digital de 88 teclas ponderadas con múltiples sonidos y efectos, perfecto para el aprendizaje y la composición"
+      "descripcion": "Piano digital de 88 teclas ponderadas con múltiples sonidos y efectos, perfecto para el aprendizaje y la composición",
+      "precio": 599.99
     },
     {
       "id": "03",
       "nombre": "Micrófono Condensador",
       "imagen": "./imagenes/microfono-condensador.jpeg",
-      "descripcion": "Micrófono condensador profesional para grabación en estudio con sensibilidad ultra alta"
+      "descripcion": "Micrófono condensador profesional para grabación en estudio con sensibilidad ultra alta",
+      "precio": 189.99
     },
     {
       "id": "04",
       "nombre": "Batería Acústica",
       "imagen": "./imagenes/bateria-acustica.jpeg",
-      "descripcion": "Batería acústica de 5 piezas con platillos incluidos, excelente para principiantes"
+      "descripcion": "Batería acústica de 5 piezas con platillos incluidos, excelente para principiantes",
+      "precio": 449.99
     },
     {
       "id": "05",
       "nombre": "Bajo Eléctrico",
       "imagen": "./imagenes/bajo-electrico.jpeg",
-      "descripcion": "Bajo eléctrico de 4 cuerdas con sonido profundo y potente"
+      "descripcion": "Bajo eléctrico de 4 cuerdas con sonido profundo y potente",
+      "precio": 329.99
     },
     {
       "id": "06",
       "nombre": "Violín",
       "imagen": "./imagenes/violin.jpeg",
-      "descripcion": "Violín profesional de madera maciza con sonido brillante y cristalino"
+      "descripcion": "Violín profesional de madera maciza con sonido brillante y cristalino",
+      "precio": 399.99
     },
     {
       "id": "07",
       "nombre": "Saxofón Alto",
       "imagen": "./imagenes/saxofon-alto.jpeg",
-      "descripcion": "Saxofón alto de latón con boquilla de caña, ideal para jazz y música clásica"
+      "descripcion": "Saxofón alto de latón con boquilla de caña, ideal para jazz y música clásica",
+      "precio": 549.99
     },
     {
       "id": "08",
       "nombre": "Flauta Traversa",
       "imagen": "./imagenes/flauta-traversa.jpeg",
-      "descripcion": "Flauta traversa de níquel plateado con sonido puro y delicado"
+      "descripcion": "Flauta traversa de níquel plateado con sonido puro y delicado",
+      "precio": 279.99
     },
     {
       "id": "09",
       "nombre": "Teclado Sintetizador",
       "imagen": "./imagenes/teclado-sintetizador.jpeg",
-      "descripcion": "Teclado sintetizador de 61 teclas con miles de sonidos y secuencias"
+      "descripcion": "Teclado sintetizador de 61 teclas con miles de sonidos y secuencias",
+      "precio": 699.99
     },
     {
       "id": "10",
       "nombre": "Trompeta",
       "imagen": "./imagenes/trompeta.jpeg",
-      "descripcion": "Trompeta de latón brillante con sonido metálico y potente"
+      "descripcion": "Trompeta de latón brillante con sonido metálico y potente",
+      "precio": 349.99
     },
     {
       "id": "11",
       "nombre": "Ukelele",
       "imagen": "./imagenes/ukelele.jpeg",
-      "descripcion": "Ukelele soprano de madera con 4 cuerdas de nylon"
+      "descripcion": "Ukelele soprano de madera con 4 cuerdas de nylon",
+      "precio": 79.99
     },
     {
       "id": "12",
       "nombre": "Armónica",
       "imagen": "./imagenes/armonica.jpeg",
-      "descripcion": "Armónica diatónica en Do con 10 agujeros"
+      "descripcion": "Armónica diatónica en Do con 10 agujeros",
+      "precio": 19.99
     },
     {
       "id": "13",
       "nombre": "Mandolina",
       "imagen": "./imagenes/mandolina.jpeg",
-      "descripcion": "Mandolina italiana con 8 cuerdas de acero"
+      "descripcion": "Mandolina italiana con 8 cuerdas de acero",
+      "precio": 199.99
     },
     {
       "id": "14",
       "nombre": "Cello",
       "imagen": "./imagenes/cello.jpeg",
-      "descripcion": "Cello de madera maciza con sonido profundo y resonante"
+      "descripcion": "Cello de madera maciza con sonido profundo y resonante",
+      "precio": 799.99
     },
     {
       "id": "15",
       "nombre": "Clarinete",
       "imagen": "./imagenes/clarinete.jpeg",
-      "descripcion": "Clarinete de madera de ébano con sonido cálido"
+      "descripcion": "Clarinete de madera de ébano con sonido cálido",
+      "precio": 259.99
     },
     {
       "id": "16",
       "nombre": "Oboe",
       "imagen": "./imagenes/oboe.jpeg",
-      "descripcion": "Oboe profesional con doble caña, sonido expresivo"
+      "descripcion": "Oboe profesional con doble caña, sonido expresivo",
+      "precio": 379.99
     },
     {
       "id": "17",
       "nombre": "Timbal",
       "imagen": "./imagenes/timbal.jpeg",
-      "descripcion": "Timbal de cobre con pedal de afinación variable"
+      "descripcion": "Timbal de cobre con pedal de afinación variable",
+      "precio": 429.99
     },
     {
       "id": "18",
       "nombre": "Marimba",
       "imagen": "./imagenes/marimba.jpeg",
-      "descripcion": "Marimba de 4 octavas con barras de madera y resonadores"
+      "descripcion": "Marimba de 4 octavas con barras de madera y resonadores",
+      "precio": 2499.99
     },
     {
       "id": "19",
       "nombre": "Banjo",
       "imagen": "./imagenes/banjo.jpeg",
-      "descripcion": "Banjo de 5 cuerdas con sonido brillante y percusivo"
+      "descripcion": "Banjo de 5 cuerdas con sonido brillante y percusivo",
+      "precio": 369.99
     },
     {
       "id": "20",
       "nombre": "Acordeón",
       "imagen": "./imagenes/acordeon.jpeg",
-      "descripcion": "Acordeón de 120 bajos con sonido rico y versátil"
+      "descripcion": "Acordeón de 120 bajos con sonido rico y versátil",
+      "precio": 899.99
     }
   ]
 }
